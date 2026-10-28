@@ -1,0 +1,9 @@
+# Temporary files
+~$*
+resume_extracted.txt
+*.log
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
